@@ -3,6 +3,7 @@
     "/content/pedro/:/",
     "/content/pedro/configuration:/.helix/config.json",
     "/content/pedro/metadata:/metadata.json"
+    "/content/pedro/redirects:/redirects.json"
   ],
   "includes": [
     "/content/pedro/"
